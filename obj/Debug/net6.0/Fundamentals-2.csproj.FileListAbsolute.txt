@@ -1,0 +1,15 @@
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\bin\Debug\net6.0\Fundamentals-2.exe
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\bin\Debug\net6.0\Fundamentals-2.deps.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\bin\Debug\net6.0\Fundamentals-2.runtimeconfig.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\bin\Debug\net6.0\Fundamentals-2.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\bin\Debug\net6.0\Fundamentals-2.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.csproj.AssemblyReference.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.AssemblyInfoInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.AssemblyInfo.cs
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.csproj.CoreCompileInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\refint\Fundamentals-2.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\Fundamentals-2.genruntimeconfig.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Fundamentals-2\obj\Debug\net6.0\ref\Fundamentals-2.dll
